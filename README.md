@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tisma95" alt="tisma95" /></a> </p>
 
-- 🔭 I’m currently working on [Asset Tracking](https://www.omniaccess-stellar-asset-tracking.com)
+- 🔭 I’m currently working on [OmniAccess Stellar Asset Tracking](https://www.omniaccess-stellar-asset-tracking.com)
 
 - 👯 I’m currently collaborate on [Vue.js French Translation](https://github.com/vuejs-translations)
 - 👯 I’m currently collaborate on [MDN French ContentTranslation](https://github.com/mdn/translated-content)
