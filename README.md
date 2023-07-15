@@ -9,6 +9,7 @@
 
 - 👯 I’m currently collaborate on [Vue.js French Translation](https://github.com/vuejs-translations)
 - 👯 I’m currently collaborate on [MDN French ContentTranslation](https://github.com/mdn/translated-content)
+- 👯 I’m currently collaborate on [Node.js French ContentTranslation](https://github.com/nodejs/nodejs.org)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
