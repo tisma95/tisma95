@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tisma95" alt="tisma95" /></a> </p>
 
-- 🔭 I’m currently working on [OmniAccess Stellar Asset Tracking](https://www.omniaccess-stellar-asset-tracking.com)
-
 - <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> </a> I’m currently collaborate on [Vue.js French Translation](https://github.com/vuejs-translations)
 - 👯 I’m currently collaborate on [MDN French ContentTranslation](https://github.com/mdn/translated-content)
 - <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> </a> I’m currently collaborate on [Node.js French ContentTranslation](https://crowdin.com/project/nodejs-website/activity-stream)
